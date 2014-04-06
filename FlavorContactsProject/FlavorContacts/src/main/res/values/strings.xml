@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Flavor Contacts</string>
+    <string name="empty_string">No contact in the group</string>
+</resources>
